@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+bin/
+obj/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment / secrets — never commit these
+.env
+.env.*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
