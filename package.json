@@ -1,0 +1,12 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "description": "CampusEats team task tracker — Git/CI/CD lab repository",
+  "main": "src/tasks.js",
+  "scripts": {
+    "start": "node src/tasks.js",
+    "test": "node src/tasks.js"
+  },
+  "license": "MIT",
+  "private": true
+}
